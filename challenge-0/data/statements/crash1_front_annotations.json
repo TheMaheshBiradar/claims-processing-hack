@@ -90,8 +90,8 @@
   ],
   "metadata": {
     "model": "mistral-document-ai-2505",
-    "processing_time_seconds": 1.38,
-    "file_path": "/workspaces/claims-processing-hack/challenge-1/statements_processing/../../challenge-0/data/statements/crash1_front.jpeg",
+    "processing_time_seconds": 1.81,
+    "file_path": "../../challenge-0/data/statements/crash1_front.jpeg",
     "include_bboxes": true,
     "json_schema_provided": true,
     "schema_for_extraction": {
